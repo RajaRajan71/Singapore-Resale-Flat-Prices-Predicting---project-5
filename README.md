@@ -37,4 +37,5 @@ By analysing the previos data,the objective of this project is to develop a mach
 * from sklearn.model_selection import GridSearchCV                                 
                                                 
                                                
-
+# final overview
+Overall, Singapore's public housing system aims to provide affordable, quality homes for its residents while promoting community living and sustainable urban development
