@@ -22,16 +22,18 @@ By analysing the previos data,the objective of this project is to develop a mach
 * Testing and Validation
 
 ## Imports and libraries
-*import pickle
-*import pandas as pd
-*import matplotlib.pyplot as plt
-*import numpy as np
-*import streamlit as st
-*from streamlit_option_menu import option_menu
-*from sklearn.model_selection import train_test_split
-*from sklearn.preprocessing import StandardScaler
-*from sklearn import metrics
-*from sklearn.metrics import r2_scorex
-*from sklearn.tree import DecisionTreeRegressor
-*from sklearn.model_selection import GridSearchCV
+* import pickle
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* import numpy as np
+* import streamlit as st
+* from streamlit_option_menu import option_menu
+*  from sklearn.model_selection import train_test_split
+*  from sklearn.preprocessing import StandardScaler
+*  from sklearn import metrics
+* from sklearn.metrics import r2_scorex
+* from sklearn.tree import DecisionTreeRegressor
+* from sklearn.model_selection import GridSearchCV                                 
+                                                
+                                               
 
