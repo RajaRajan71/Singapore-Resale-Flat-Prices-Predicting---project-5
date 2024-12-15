@@ -34,7 +34,17 @@ By analysing the previos data,the objective of this project is to develop a mach
 *  from sklearn import metrics
 * from sklearn.metrics import r2_scorex
 * from sklearn.tree import DecisionTreeRegressor
-* from sklearn.model_selection import GridSearchCV                                 
+* from sklearn.model_selection import GridSearchCV
+
+# 🧰 Procedure
+
+* Load and Extract Data from the given CSV files
+* Converting it into a Pandas Dataframe
+* Undergo Data preprocessing &Data Engineering
+* Working on EDA
+* Using MAchine Learning Regression Model - Decision Tree Regressor
+* Made Predictions for Resale Price of the SGP Flats
+* Deployment in Render Application to make it Viewable in Streamlit Platform.
                                                 
                                                
 # final overview
